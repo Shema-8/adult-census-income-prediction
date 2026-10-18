@@ -8,9 +8,9 @@ Machine Learning Summative · African Leadership University (ALU)
 
 | Item | Link |
 |---|---|
-| Written report (IEEE style) | [[paste link]](https://docs.google.com/document/d/1lFEiPVGbns5lr2DHQi4uQr0YlgIrw_woM4xHoHfPwW8/edit?usp=sharing) |
-| Google Drive folder (dataset, saved models) | [[paste link]](https://drive.google.com/drive/folders/1yx7S-OfNcnX7qGAgVcA6sKGzZB_rT-_X?usp=sharing) |
-| Video presentation | [[paste link]](https://www.youtube.com/watch?v=P3kTXfbUzhE ) |
+| Written report (IEEE style) | (https://docs.google.com/document/d/1lFEiPVGbns5lr2DHQi4uQr0YlgIrw_woM4xHoHfPwW8/edit?usp=sharing) |
+| Google Drive folder (dataset, saved models) | (https://drive.google.com/drive/folders/1yx7S-OfNcnX7qGAgVcA6sKGzZB_rT-_X?usp=sharing) |
+| Video presentation | (https://www.youtube.com/watch?v=P3kTXfbUzhE ) |
 
 ## Problem
 
